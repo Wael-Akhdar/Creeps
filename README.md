@@ -87,8 +87,8 @@ public static CompletableFuture<Void> runExplorer(Server server, String unitId, 
 
 Visual proof of the bot running asynchronously on the local testing server.
 
-* **Server Activity (Terminal Logs):** Demonstrates real-time, parallel processing of independent unit agents.
+* **Server Activity:** Demonstrates real-time, parallel processing of independent unit agents.
 ![Server Activity](img/terminal_logs.gif)
 
-* **Game Map Execution (Web Viewer):** Shows the citizen swarms gathering resources and building roads autonomously.
+* **Web Viewer:** Shows the citizen swarms gathering resources and building roads autonomously.
 ![Game Map Execution](img/web_viewer.gif)
