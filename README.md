@@ -85,11 +85,10 @@ public static CompletableFuture<Void> runExplorer(Server server, String unitId, 
 
 ## 🎯 Demonstration
 
-*(Include visual proof of the bot in action)*
-* **Server Activity:** `![Logs Demo](link_to_gif_of_terminal_running_the_bot)`
-* **Game Map Execution:** `![Game Demo](link_to_gif_or_screenshot_of_the_web_viewer)`
+Visual proof of the bot running asynchronously on the local testing server.
 
-The local testing environment is spun up using a standalone jar:
-```bash
-java -jar creeps-server.jar --trackAchievements=true
-```
+* **Server Activity (Terminal Logs):** Demonstrates real-time, parallel processing of independent unit agents.
+![Server Activity](img/terminal_logs.gif)
+
+* **Game Map Execution (Web Viewer):** Shows the citizen swarms gathering resources and building roads autonomously.
+![Game Map Execution](img/web_viewer.gif)
