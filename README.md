@@ -83,6 +83,10 @@ public static CompletableFuture<Void> runExplorer(Server server, String unitId, 
 // CompletableFuture.allOf(explorer1, explorer2, spammer1).join();
 ```
 
+## 🛠️ Skills
+
+`Java` · `Front-End Development` · `HTTP` · `REST APIs`
+
 ## 🎯 Demonstration
 
 Visual proof of the bot running asynchronously on the local testing server.
